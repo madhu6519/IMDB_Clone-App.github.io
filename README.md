@@ -47,7 +47,7 @@ Simply download the Zip File and run on your system
  
 
 ## Demo
-To check demo of the todo list application click on this link https://madhu6519.github.io/IMDB_Clone-App.github.io/
+To check demo of the IMDB clone application click on this link https://madhu6519.github.io/IMDB_Clone-App.github.io/
 ## App Preiew
 ![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/2f1dfb46-df0e-45f0-be46-c872cd8fdbbb)
 ![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/52a8db9b-ddb0-4602-8115-f8532b147236)
