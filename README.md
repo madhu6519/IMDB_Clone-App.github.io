@@ -51,4 +51,5 @@ To check demo of the todo list application click on this link https://madhu6519.
 ## App Preiew
 ![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/2f1dfb46-df0e-45f0-be46-c872cd8fdbbb)
 ![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/52a8db9b-ddb0-4602-8115-f8532b147236)
-
+![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/831ca619-8346-4aea-a2c5-89bea3841390)
+![image](https://github.com/madhu6519/IMDB_Clone-App.github.io/assets/64521759/872d8aeb-d616-4e23-b111-25a96a722ed2)
